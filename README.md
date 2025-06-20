@@ -1,4 +1,6 @@
 # Projector-Automation
+![My ESP with a big external button connected to GPIO0](https://github.com/user-attachments/assets/45d617b1-e624-4fb8-814d-af0f7ae95614)
+My ESP with a big external button connected to GPIO0
 
 ZTE-S-Pro projector is annying to turn off and off, so I decided to make a BLE mouse that works by doing the following:
 
